@@ -80,7 +80,7 @@ header{
 }
 
 .banner {
-    background-image: url(../LANDINGPAGE-MAIN/imagens/imagem-fundo-banner.jpg);
+    background-image: url(imagem-fundo-banner.jpg);
     height: 768px;
     background-repeat: no-repeat;
     background-position: center;
@@ -168,7 +168,7 @@ h1{
 }
 
 .info{
-    background-image: url(../LANDINGPAGE-MAIN/imagens/imagem-fundo-info.jpg);
+    background-image: url(imagem-fundo-info.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -203,7 +203,7 @@ h1{
 
 .endereco{
     padding: 40px 0;
-    background-image: url(../LANDINGPAGE-MAIN/imagens/imagem-fundo-ranking.jpg);
+    background-image: url(imagem-fundo-ranking.jpg);
 }
 
 .conteudo-endereco{
